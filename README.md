@@ -8,4 +8,9 @@ This repository is built step by step in the tutorial.
 This repository is built step by step in the tutorial.
 
 It now includes steps for the github
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+
+steps added
+>>>>>>> 79978455157558663aacd64f33ebacd4e851cb11
